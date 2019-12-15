@@ -1,0 +1,10 @@
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.Properties.Resources.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.csproj.GenerateResource.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.csproj.CoreCompileInputs.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\bin\Debug\SimpleShapeMarker.exe.config
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\bin\Debug\SimpleShapeMarker.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\bin\Debug\SimpleShapeMarker.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\SimpleShapeMarker\obj\Debug\SimpleShapeMarker.SimpleShapeMarker.resources
